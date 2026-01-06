@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+
+data/
+results/
+data2/
+
+*.pth
+*.tar
+*.pth.tar
+
+
+*.log
+.env
+.vscode/
+.idea/
